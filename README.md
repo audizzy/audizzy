@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Audizz!</h1>
-<h3 align="center">A passionate backend developer</h3>
+<h3 align="center">A passionate junior backend developer</h3>
 
 - 👯 I’m looking to collaborate on **Golang Backend Projects**
 
